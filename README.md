@@ -1,9 +1,10 @@
 # ApartmentListCodingChallenge
+Goal:
+  Run this code on last Friday of every month to create random groups that increases interactivity between existing and new employees through an outdoor lunch
 
-Run this code on last Friday of every month to create random groups that increases interactivity between existing and new employees through an outdoor lunch
 Instructions:
-Command to run the code: python Friday_Lunch.py
-Please include the NewEmployeeList.txt,EmployeeLunchList.txt within the same directory as the code
+  Command to run the code: python Friday_Lunch.py
+  Please include the NewEmployeeList.txt,EmployeeLunchList.txt within the same directory as the code
 
 Functionality:
   3 files have been included: 
